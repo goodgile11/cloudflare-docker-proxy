@@ -17,7 +17,7 @@ const routes = {
   "ecr.mmcc.us.kg": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.mmcc.us.kg": dockerHub,
 };
 
 function routeByHosts(host) {
